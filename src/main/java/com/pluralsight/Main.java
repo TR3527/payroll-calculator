@@ -14,6 +14,7 @@ public class Main {
         float hoursWorked = reader.nextFloat();
 
 //enter 20.5 ^
+        //BREAK UP CODE MORE
 
         System.out.print("Enter pay rate: ");
         float payRate = reader.nextFloat();
