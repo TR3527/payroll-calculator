@@ -22,12 +22,17 @@ public class Main {
 
         float grossPayCalc = payRate * hoursWorked;
 
-        System.out.println(workerName + (" gross pay: $") + grossPayCalc);
+        //System.out.println(workerName + (" gross pay: $") + grossPayCalc);
 
+        //added a cleaner format below
+        System.out.printf("%s (hoursWorked: %f) $%.2f", workerName, hoursWorked, grossPayCalc);
 
+        //called .close() method
 
         reader.close();
     }
+
+
 
     //DO BONUS!!!!
 
