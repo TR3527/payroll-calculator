@@ -28,4 +28,14 @@ public class Main {
 
         reader.close();
     }
+
+    //DO BONUS!!!!
+
+
 }
+
+/*You learned about if statements in your pre-work, so although we have not discussed
+them in class, you should be able to figure out how to pay 1.5x overtime after 40 hours.
+You can use the W3Schools guide as a reference
+https://www.w3schools.com/java/java_conditions.asp
+*/
